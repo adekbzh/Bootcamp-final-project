@@ -1,0 +1,156 @@
+[
+    {
+        "icao": "UKKK",
+        "iata": "IEV",
+        "name": "Kiev"
+    },
+    {
+        "icao": "EDDF",
+        "iata": "FRA",
+        "name": "Frankfurt-am-Main"
+    },
+    {
+        "name": "Rijeka"
+    },
+    {
+        "icao": "EETN",
+        "iata": "TLL",
+        "name": "Tallinn"
+    },
+    {
+        "icao": "LOWW",
+        "iata": "VIE",
+        "name": "Vienna"
+    },
+    {
+        "icao": "BIKF",
+        "iata": "KEF",
+        "name": "Reykjavík"
+    },
+    {
+        "icao": "LOWW",
+        "iata": "VIE",
+        "name": "Vienna"
+    },
+    {
+        "icao": "EDDM",
+        "iata": "MUC",
+        "name": "Munich"
+    },
+    {
+        "icao": "EBBR",
+        "iata": "BRU",
+        "name": "Brussels"
+    },
+    {
+        "icao": "EGCN",
+        "iata": "DSA",
+        "name": "Doncaster"
+    },
+    {
+        "icao": "ENGM",
+        "iata": "OSL",
+        "name": "Oslo"
+    },
+    {
+        "icao": "EDDT",
+        "iata": "TXL",
+        "name": "Berlin"
+    },
+    {
+        "icao": "UMMS",
+        "iata": "MSQ",
+        "name": "Minsk"
+    },
+    {
+        "icao": "EYVI",
+        "iata": "VNO",
+        "name": "Vilnius"
+    },
+    {
+        "icao": "EKCH",
+        "iata": "CPH",
+        "name": "Copenhagen"
+    },
+    {
+        "icao": "EGNX",
+        "iata": "EMA",
+        "name": "Nottingham"
+    },
+    {
+        "icao": "EIDW",
+        "iata": "DUB",
+        "name": "Dublin"
+    },
+    {
+        "icao": "LEMG",
+        "iata": "AGP",
+        "name": "Málaga"
+    },
+    {
+        "icao": "EYVI",
+        "iata": "VNO",
+        "name": "Vilnius"
+    },
+    {
+        "icao": "EETN",
+        "iata": "TLL",
+        "name": "Tallinn"
+    },
+    {
+        "icao": "UGTB",
+        "iata": "TBS",
+        "name": "Tbilisi"
+    },
+    {
+        "name": "Liepaya"
+    },
+    {
+        "name": "Klaipeda"
+    },
+    {
+        "icao": "EFTU",
+        "iata": "TKU",
+        "name": "Turku"
+    },
+    {
+        "icao": "UMKK",
+        "iata": "KGD",
+        "name": "Kaliningrad"
+    },
+    {
+        "icao": "EFHK",
+        "iata": "HEL",
+        "name": "Helsinki"
+    },
+    {
+        "icao": "EYVI",
+        "iata": "VNO",
+        "name": "Vilnius"
+    },
+    {
+        "icao": "EGSS",
+        "iata": "STN",
+        "name": "London"
+    },
+    {
+        "icao": "ESGG",
+        "iata": "GOT",
+        "name": "Gothenburg"
+    },
+    {
+        "icao": "LKPR",
+        "iata": "PRG",
+        "name": "Prague"
+    },
+    {
+        "icao": "EGGW",
+        "iata": "LTN",
+        "name": "London"
+    },
+    {
+        "icao": "EDDH",
+        "iata": "HAM",
+        "name": "Hamburg"
+    }
+]

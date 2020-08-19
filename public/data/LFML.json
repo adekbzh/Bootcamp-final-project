@@ -1,0 +1,165 @@
+[
+    {
+        "icao": "LFPG",
+        "iata": "CDG",
+        "name": "Paris"
+    },
+    {
+        "icao": "DAAG",
+        "iata": "ALG",
+        "name": "Algiers"
+    },
+    {
+        "icao": "DAOO",
+        "iata": "ORN",
+        "name": "Oran"
+    },
+    {
+        "icao": "LHBP",
+        "iata": "BUD",
+        "name": "Budapest"
+    },
+    {
+        "icao": "LFPG",
+        "iata": "CDG",
+        "name": "Paris"
+    },
+    {
+        "icao": "LGSA",
+        "iata": "CHQ",
+        "name": "Souda"
+    },
+    {
+        "icao": "LFRS",
+        "iata": "NTE",
+        "name": "Nantes"
+    },
+    {
+        "icao": "LFRK",
+        "iata": "CFR",
+        "name": "Caen/Carpiquet"
+    },
+    {
+        "icao": "GMMN",
+        "iata": "CMN",
+        "name": "Casablanca"
+    },
+    {
+        "icao": "LPPT",
+        "iata": "LIS",
+        "name": "Lisbon"
+    },
+    {
+        "icao": "LFKJ",
+        "iata": "AJA",
+        "name": "Ajaccio/Napoléon Bonaparte"
+    },
+    {
+        "icao": "LFKB",
+        "iata": "BIA",
+        "name": "Bastia/Poretta"
+    },
+    {
+        "icao": "DAAG",
+        "iata": "ALG",
+        "name": "Algiers"
+    },
+    {
+        "icao": "LPPT",
+        "iata": "LIS",
+        "name": "Lisbon"
+    },
+    {
+        "icao": "DTTA",
+        "iata": "TUN",
+        "name": "Tunis"
+    },
+    {
+        "icao": "DAAG",
+        "iata": "ALG",
+        "name": "Algiers"
+    },
+    {
+        "icao": "LFKC",
+        "iata": "CLY",
+        "name": "Calvi/Sainte-Catherine"
+    },
+    {
+        "icao": "LFPG",
+        "iata": "CDG",
+        "name": "Paris"
+    },
+    {
+        "icao": "LFBD",
+        "iata": "BOD",
+        "name": "Bordeaux/Mérignac"
+    },
+    {
+        "icao": "LFRS",
+        "iata": "NTE",
+        "name": "Nantes"
+    },
+    {
+        "icao": "LFKF",
+        "iata": "FSC",
+        "name": "Figari Sud-Corse"
+    },
+    {
+        "icao": "DTTA",
+        "iata": "TUN",
+        "name": "Tunis"
+    },
+    {
+        "icao": "EGMC",
+        "iata": "SEN",
+        "name": "Southend"
+    },
+    {
+        "icao": "LDDU",
+        "iata": "DBV",
+        "name": "Dubrovnik"
+    },
+    {
+        "icao": "LGAV",
+        "iata": "ATH",
+        "name": "Athens"
+    },
+    {
+        "icao": "LGKR",
+        "iata": "CFU",
+        "name": "Kerkyra Island"
+    },
+    {
+        "icao": "LICJ",
+        "iata": "PMO",
+        "name": "Palermo"
+    },
+    {
+        "name": "Addis Ababa"
+    },
+    {
+        "icao": "LFKF",
+        "iata": "FSC",
+        "name": "Figari Sud-Corse"
+    },
+    {
+        "icao": "LEVC",
+        "iata": "VLC",
+        "name": "Valencia"
+    },
+    {
+        "icao": "LFKJ",
+        "iata": "AJA",
+        "name": "Ajaccio/Napoléon Bonaparte"
+    },
+    {
+        "icao": "EIDW",
+        "iata": "DUB",
+        "name": "Dublin"
+    },
+    {
+        "icao": "LFKB",
+        "iata": "BIA",
+        "name": "Bastia/Poretta"
+    }
+]

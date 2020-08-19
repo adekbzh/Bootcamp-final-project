@@ -1,0 +1,57 @@
+[
+    {
+        "icao": "EDDB",
+        "iata": "SXF",
+        "name": "Berlin"
+    },
+    {
+        "icao": "EDDT",
+        "iata": "TXL",
+        "name": "Berlin"
+    },
+    {
+        "icao": "EGLL",
+        "iata": "LHR",
+        "name": "London"
+    },
+    {
+        "icao": "EHAM",
+        "iata": "AMS",
+        "name": "Amsterdam"
+    },
+    {
+        "icao": "EVRA",
+        "iata": "RIX",
+        "name": "Riga"
+    },
+    {
+        "icao": "LEMD",
+        "iata": "MAD",
+        "name": "Madrid"
+    },
+    {
+        "icao": "LFML",
+        "iata": "MRS",
+        "name": "Marseille"
+    },
+    {
+        "icao": "LFPG",
+        "iata": "CDG",
+        "name": "Paris"
+    },
+    {
+        "icao": "LFRN",
+        "iata": "RNS",
+        "name": "Rennes"
+    },
+    {
+        "icao": "LIPZ",
+        "iata": "VCE",
+        "name": "Venice"
+    },
+    {
+        "icao": "LKPR",
+        "iata": "PRG",
+        "name": "Prague"
+    }
+]

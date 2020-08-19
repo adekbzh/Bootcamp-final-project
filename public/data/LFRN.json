@@ -1,0 +1,27 @@
+[
+    {
+        "icao": "LFPG",
+        "iata": "CDG",
+        "name": "Paris"
+    },
+    {
+        "icao": "LFBO",
+        "iata": "TLS",
+        "name": "Toulouse-Blagnac"
+    },
+    {
+        "icao": "LFMN",
+        "iata": "NCE",
+        "name": "Nice"
+    },
+    {
+        "icao": "LFLL",
+        "iata": "LYS",
+        "name": "Lyon"
+    },
+    {
+        "icao": "LFMN",
+        "iata": "NCE",
+        "name": "Nice"
+    }
+]

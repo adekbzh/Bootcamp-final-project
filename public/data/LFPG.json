@@ -1,0 +1,1025 @@
+[
+    {
+        "name": "Fort De France"
+    },
+    {
+        "icao": "GUCY",
+        "iata": "CKY",
+        "name": "Conakry"
+    },
+    {
+        "name": "NDjamena"
+    },
+    {
+        "icao": "EGNT",
+        "iata": "NCL",
+        "name": "Newcastle"
+    },
+    {
+        "name": "Rabat"
+    },
+    {
+        "icao": "DIAP",
+        "iata": "ABJ",
+        "name": "Abidjan"
+    },
+    {
+        "name": "Nice"
+    },
+    {
+        "name": "Dakar"
+    },
+    {
+        "name": "Pointe-a-Pitre"
+    },
+    {
+        "name": "Fort De France"
+    },
+    {
+        "name": "Saint-Denis"
+    },
+    {
+        "name": "Nice"
+    },
+    {
+        "icao": "DAOO",
+        "iata": "ORN",
+        "name": "Oran"
+    },
+    {
+        "name": "Jerba"
+    },
+    {
+        "icao": "EPWA",
+        "iata": "WAW",
+        "name": "Warsaw"
+    },
+    {
+        "icao": "FMEE",
+        "iata": "RUN",
+        "name": "St Denis"
+    },
+    {
+        "icao": "GMME",
+        "iata": "RBA",
+        "name": "Rabat"
+    },
+    {
+        "name": "Saint-Denis"
+    },
+    {
+        "icao": "FMEE",
+        "iata": "RUN",
+        "name": "St Denis"
+    },
+    {
+        "icao": "HDAM",
+        "iata": "JIB",
+        "name": "Djibouti City"
+    },
+    {
+        "icao": "CYUL",
+        "iata": "YUL",
+        "name": "Montréal"
+    },
+    {
+        "icao": "BIKF",
+        "iata": "KEF",
+        "name": "Reykjavík"
+    },
+    {
+        "icao": "CYUL",
+        "iata": "YUL",
+        "name": "Montréal"
+    },
+    {
+        "icao": "CYUL",
+        "iata": "YUL",
+        "name": "Montréal"
+    },
+    {
+        "icao": "CYUL",
+        "iata": "YUL",
+        "name": "Montréal"
+    },
+    {
+        "icao": "CYYZ",
+        "iata": "YYZ",
+        "name": "Toronto"
+    },
+    {
+        "icao": "DAAG",
+        "iata": "ALG",
+        "name": "Algiers"
+    },
+    {
+        "icao": "DAAG",
+        "iata": "ALG",
+        "name": "Algiers"
+    },
+    {
+        "icao": "DAAG",
+        "iata": "ALG",
+        "name": "Algiers"
+    },
+    {
+        "icao": "CYVR",
+        "iata": "YVR",
+        "name": "Vancouver"
+    },
+    {
+        "icao": "DAAG",
+        "iata": "ALG",
+        "name": "Algiers"
+    },
+    {
+        "icao": "DAAG",
+        "iata": "ALG",
+        "name": "Algiers"
+    },
+    {
+        "icao": "DGAA",
+        "iata": "ACC",
+        "name": "Accra"
+    },
+    {
+        "icao": "DTMB",
+        "iata": "MIR",
+        "name": "Monastir"
+    },
+    {
+        "icao": "DTTA",
+        "iata": "TUN",
+        "name": "Tunis"
+    },
+    {
+        "icao": "EDDH",
+        "iata": "HAM",
+        "name": "Hamburg"
+    },
+    {
+        "icao": "DTTA",
+        "iata": "TUN",
+        "name": "Tunis"
+    },
+    {
+        "icao": "EDDH",
+        "iata": "HAM",
+        "name": "Hamburg"
+    },
+    {
+        "icao": "EDDH",
+        "iata": "HAM",
+        "name": "Hamburg"
+    },
+    {
+        "icao": "EDDF",
+        "iata": "FRA",
+        "name": "Frankfurt-am-Main"
+    },
+    {
+        "icao": "EDDM",
+        "iata": "MUC",
+        "name": "Munich"
+    },
+    {
+        "icao": "EDDL",
+        "iata": "DUS",
+        "name": "Düsseldorf"
+    },
+    {
+        "icao": "EDDM",
+        "iata": "MUC",
+        "name": "Munich"
+    },
+    {
+        "icao": "EDDM",
+        "iata": "MUC",
+        "name": "Munich"
+    },
+    {
+        "icao": "EDDN",
+        "iata": "NUE",
+        "name": "Nuremberg"
+    },
+    {
+        "icao": "EDDT",
+        "iata": "TXL",
+        "name": "Berlin"
+    },
+    {
+        "icao": "EDDT",
+        "iata": "TXL",
+        "name": "Berlin"
+    },
+    {
+        "icao": "EDDV",
+        "iata": "HAJ",
+        "name": "Hannover"
+    },
+    {
+        "icao": "EETN",
+        "iata": "TLL",
+        "name": "Tallinn"
+    },
+    {
+        "icao": "EFHK",
+        "iata": "HEL",
+        "name": "Helsinki"
+    },
+    {
+        "icao": "EGGW",
+        "iata": "LTN",
+        "name": "London"
+    },
+    {
+        "icao": "EGBB",
+        "iata": "BHX",
+        "name": "Birmingham"
+    },
+    {
+        "icao": "EGLL",
+        "iata": "LHR",
+        "name": "London"
+    },
+    {
+        "icao": "EGLL",
+        "iata": "LHR",
+        "name": "London"
+    },
+    {
+        "icao": "EGLL",
+        "iata": "LHR",
+        "name": "London"
+    },
+    {
+        "icao": "EGCC",
+        "iata": "MAN",
+        "name": "Manchester"
+    },
+    {
+        "icao": "EGPF",
+        "iata": "GLA",
+        "name": "Glasgow"
+    },
+    {
+        "icao": "EGPH",
+        "iata": "EDI",
+        "name": "Edinburgh"
+    },
+    {
+        "icao": "EGPH",
+        "iata": "EDI",
+        "name": "Edinburgh"
+    },
+    {
+        "icao": "EIDW",
+        "iata": "DUB",
+        "name": "Dublin"
+    },
+    {
+        "icao": "EIDW",
+        "iata": "DUB",
+        "name": "Dublin"
+    },
+    {
+        "icao": "EKCH",
+        "iata": "CPH",
+        "name": "Copenhagen"
+    },
+    {
+        "icao": "EKCH",
+        "iata": "CPH",
+        "name": "Copenhagen"
+    },
+    {
+        "icao": "EKCH",
+        "iata": "CPH",
+        "name": "Copenhagen"
+    },
+    {
+        "icao": "ELLX",
+        "iata": "LUX",
+        "name": "Luxembourg"
+    },
+    {
+        "icao": "EKCH",
+        "iata": "CPH",
+        "name": "Copenhagen"
+    },
+    {
+        "icao": "ENGM",
+        "iata": "OSL",
+        "name": "Oslo"
+    },
+    {
+        "icao": "ENGM",
+        "iata": "OSL",
+        "name": "Oslo"
+    },
+    {
+        "icao": "ENGM",
+        "iata": "OSL",
+        "name": "Oslo"
+    },
+    {
+        "icao": "ESGG",
+        "iata": "GOT",
+        "name": "Gothenburg"
+    },
+    {
+        "icao": "ESSA",
+        "iata": "ARN",
+        "name": "Stockholm"
+    },
+    {
+        "icao": "ESSA",
+        "iata": "ARN",
+        "name": "Stockholm"
+    },
+    {
+        "icao": "FMMI",
+        "iata": "TNR",
+        "name": "Antananarivo"
+    },
+    {
+        "icao": "FAOR",
+        "iata": "JNB",
+        "name": "Johannesburg"
+    },
+    {
+        "icao": "GMMN",
+        "iata": "CMN",
+        "name": "Casablanca"
+    },
+    {
+        "icao": "GMMN",
+        "iata": "CMN",
+        "name": "Casablanca"
+    },
+    {
+        "icao": "GMMN",
+        "iata": "CMN",
+        "name": "Casablanca"
+    },
+    {
+        "icao": "GMMN",
+        "iata": "CMN",
+        "name": "Casablanca"
+    },
+    {
+        "icao": "GMMX",
+        "iata": "RAK",
+        "name": "Marrakech"
+    },
+    {
+        "icao": "HAAB",
+        "iata": "ADD",
+        "name": "Addis Ababa"
+    },
+    {
+        "icao": "HECA",
+        "iata": "CAI",
+        "name": "Cairo"
+    },
+    {
+        "icao": "HKJK",
+        "iata": "NBO",
+        "name": "Nairobi"
+    },
+    {
+        "icao": "KATL",
+        "iata": "ATL",
+        "name": "Atlanta"
+    },
+    {
+        "icao": "KJFK",
+        "iata": "JFK",
+        "name": "New York"
+    },
+    {
+        "icao": "KJFK",
+        "iata": "JFK",
+        "name": "New York"
+    },
+    {
+        "icao": "KORD",
+        "iata": "ORD",
+        "name": "Chicago"
+    },
+    {
+        "icao": "KMIA",
+        "iata": "MIA",
+        "name": "Miami"
+    },
+    {
+        "icao": "LDSP",
+        "iata": "SPU",
+        "name": "Split"
+    },
+    {
+        "icao": "LDDU",
+        "iata": "DBV",
+        "name": "Dubrovnik"
+    },
+    {
+        "icao": "LDSP",
+        "iata": "SPU",
+        "name": "Split"
+    },
+    {
+        "icao": "LDSP",
+        "iata": "SPU",
+        "name": "Split"
+    },
+    {
+        "icao": "LBSF",
+        "iata": "SOF",
+        "name": "Sofia"
+    },
+    {
+        "icao": "LDZA",
+        "iata": "ZAG",
+        "name": "Zagreb"
+    },
+    {
+        "icao": "LEBL",
+        "iata": "BCN",
+        "name": "Barcelona"
+    },
+    {
+        "icao": "LEBL",
+        "iata": "BCN",
+        "name": "Barcelona"
+    },
+    {
+        "icao": "LEBL",
+        "iata": "BCN",
+        "name": "Barcelona"
+    },
+    {
+        "icao": "LEIB",
+        "iata": "IBZ",
+        "name": "Ibiza"
+    },
+    {
+        "icao": "LEMD",
+        "iata": "MAD",
+        "name": "Madrid"
+    },
+    {
+        "icao": "LEMD",
+        "iata": "MAD",
+        "name": "Madrid"
+    },
+    {
+        "icao": "LEPA",
+        "iata": "PMI",
+        "name": "Palma De Mallorca"
+    },
+    {
+        "icao": "LEVC",
+        "iata": "VLC",
+        "name": "Valencia"
+    },
+    {
+        "icao": "LEMG",
+        "iata": "AGP",
+        "name": "Málaga"
+    },
+    {
+        "icao": "LEMG",
+        "iata": "AGP",
+        "name": "Málaga"
+    },
+    {
+        "icao": "LEPA",
+        "iata": "PMI",
+        "name": "Palma De Mallorca"
+    },
+    {
+        "icao": "LEVC",
+        "iata": "VLC",
+        "name": "Valencia"
+    },
+    {
+        "icao": "LFBO",
+        "iata": "TLS",
+        "name": "Toulouse-Blagnac"
+    },
+    {
+        "icao": "LFBO",
+        "iata": "TLS",
+        "name": "Toulouse-Blagnac"
+    },
+    {
+        "icao": "LFBO",
+        "iata": "TLS",
+        "name": "Toulouse-Blagnac"
+    },
+    {
+        "icao": "LFBD",
+        "iata": "BOD",
+        "name": "Bordeaux/Mérignac"
+    },
+    {
+        "icao": "LFBD",
+        "iata": "BOD",
+        "name": "Bordeaux/Mérignac"
+    },
+    {
+        "icao": "LFBD",
+        "iata": "BOD",
+        "name": "Bordeaux/Mérignac"
+    },
+    {
+        "icao": "LFBO",
+        "iata": "TLS",
+        "name": "Toulouse-Blagnac"
+    },
+    {
+        "icao": "LFBO",
+        "iata": "TLS",
+        "name": "Toulouse-Blagnac"
+    },
+    {
+        "icao": "LFBP",
+        "iata": "PUF",
+        "name": "Pau/Pyrénées (Uzein)"
+    },
+    {
+        "icao": "LFBP",
+        "iata": "PUF",
+        "name": "Pau/Pyrénées (Uzein)"
+    },
+    {
+        "icao": "LFBZ",
+        "iata": "BIQ",
+        "name": "Biarritz/Anglet/Bayonne"
+    },
+    {
+        "icao": "LFKJ",
+        "iata": "AJA",
+        "name": "Ajaccio/Napoléon Bonaparte"
+    },
+    {
+        "icao": "LFBZ",
+        "iata": "BIQ",
+        "name": "Biarritz/Anglet/Bayonne"
+    },
+    {
+        "icao": "LFBZ",
+        "iata": "BIQ",
+        "name": "Biarritz/Anglet/Bayonne"
+    },
+    {
+        "icao": "LFKF",
+        "iata": "FSC",
+        "name": "Figari Sud-Corse"
+    },
+    {
+        "icao": "LFLL",
+        "iata": "LYS",
+        "name": "Lyon"
+    },
+    {
+        "icao": "LFLL",
+        "iata": "LYS",
+        "name": "Lyon"
+    },
+    {
+        "icao": "LFLL",
+        "iata": "LYS",
+        "name": "Lyon"
+    },
+    {
+        "icao": "LFML",
+        "iata": "MRS",
+        "name": "Marseille"
+    },
+    {
+        "icao": "LFML",
+        "iata": "MRS",
+        "name": "Marseille"
+    },
+    {
+        "icao": "LFML",
+        "iata": "MRS",
+        "name": "Marseille"
+    },
+    {
+        "icao": "LFML",
+        "iata": "MRS",
+        "name": "Marseille"
+    },
+    {
+        "icao": "LFMN",
+        "iata": "NCE",
+        "name": "Nice"
+    },
+    {
+        "icao": "LFMN",
+        "iata": "NCE",
+        "name": "Nice"
+    },
+    {
+        "icao": "LFMN",
+        "iata": "NCE",
+        "name": "Nice"
+    },
+    {
+        "icao": "LFMN",
+        "iata": "NCE",
+        "name": "Nice"
+    },
+    {
+        "icao": "LFMN",
+        "iata": "NCE",
+        "name": "Nice"
+    },
+    {
+        "icao": "LFMP",
+        "iata": "PGF",
+        "name": "Perpignan/Rivesaltes"
+    },
+    {
+        "icao": "LFMP",
+        "iata": "PGF",
+        "name": "Perpignan/Rivesaltes"
+    },
+    {
+        "icao": "LFMT",
+        "iata": "MPL",
+        "name": "Montpellier/Méditerranée"
+    },
+    {
+        "icao": "LFMT",
+        "iata": "MPL",
+        "name": "Montpellier/Méditerranée"
+    },
+    {
+        "icao": "LFMT",
+        "iata": "MPL",
+        "name": "Montpellier/Méditerranée"
+    },
+    {
+        "icao": "LFRB",
+        "iata": "BES",
+        "name": "Brest/Guipavas"
+    },
+    {
+        "icao": "LFRB",
+        "iata": "BES",
+        "name": "Brest/Guipavas"
+    },
+    {
+        "icao": "LFTH",
+        "iata": "TLN",
+        "name": "Toulon/Hyères/Le Palyvestre"
+    },
+    {
+        "icao": "LFTH",
+        "iata": "TLN",
+        "name": "Toulon/Hyères/Le Palyvestre"
+    },
+    {
+        "icao": "LFTH",
+        "iata": "TLN",
+        "name": "Toulon/Hyères/Le Palyvestre"
+    },
+    {
+        "icao": "LFTH",
+        "iata": "TLN",
+        "name": "Toulon/Hyères/Le Palyvestre"
+    },
+    {
+        "icao": "LGAV",
+        "iata": "ATH",
+        "name": "Athens"
+    },
+    {
+        "icao": "LGAV",
+        "iata": "ATH",
+        "name": "Athens"
+    },
+    {
+        "icao": "LGAV",
+        "iata": "ATH",
+        "name": "Athens"
+    },
+    {
+        "icao": "LGAV",
+        "iata": "ATH",
+        "name": "Athens"
+    },
+    {
+        "icao": "LGAV",
+        "iata": "ATH",
+        "name": "Athens"
+    },
+    {
+        "icao": "LIBD",
+        "iata": "BRI",
+        "name": "Bari"
+    },
+    {
+        "icao": "LGMK",
+        "iata": "JMK",
+        "name": "Mykonos Island"
+    },
+    {
+        "icao": "LGIR",
+        "iata": "HER",
+        "name": "Heraklion"
+    },
+    {
+        "icao": "LHBP",
+        "iata": "BUD",
+        "name": "Budapest"
+    },
+    {
+        "icao": "LICC",
+        "iata": "CTA",
+        "name": "Catania"
+    },
+    {
+        "icao": "LIEO",
+        "iata": "OLB",
+        "name": "Olbia"
+    },
+    {
+        "icao": "LIMC",
+        "iata": "MXP",
+        "name": "Milan"
+    },
+    {
+        "icao": "LIPZ",
+        "iata": "VCE",
+        "name": "Venice"
+    },
+    {
+        "icao": "LIMC",
+        "iata": "MXP",
+        "name": "Milan"
+    },
+    {
+        "icao": "LIMC",
+        "iata": "MXP",
+        "name": "Milan"
+    },
+    {
+        "icao": "LIPZ",
+        "iata": "VCE",
+        "name": "Venice"
+    },
+    {
+        "icao": "LIRF",
+        "iata": "FCO",
+        "name": "Rome"
+    },
+    {
+        "icao": "LIRF",
+        "iata": "FCO",
+        "name": "Rome"
+    },
+    {
+        "icao": "LIRF",
+        "iata": "FCO",
+        "name": "Rome"
+    },
+    {
+        "icao": "LIRF",
+        "iata": "FCO",
+        "name": "Rome"
+    },
+    {
+        "icao": "LIRF",
+        "iata": "FCO",
+        "name": "Rome"
+    },
+    {
+        "icao": "LIRN",
+        "iata": "NAP",
+        "name": "Nápoli"
+    },
+    {
+        "icao": "LIRQ",
+        "iata": "FLR",
+        "name": "Firenze"
+    },
+    {
+        "icao": "LIRQ",
+        "iata": "FLR",
+        "name": "Firenze"
+    },
+    {
+        "icao": "LKPR",
+        "iata": "PRG",
+        "name": "Prague"
+    },
+    {
+        "icao": "LKPR",
+        "iata": "PRG",
+        "name": "Prague"
+    },
+    {
+        "icao": "LKPR",
+        "iata": "PRG",
+        "name": "Prague"
+    },
+    {
+        "icao": "LLBG",
+        "iata": "TLV",
+        "name": "Tel Aviv"
+    },
+    {
+        "icao": "LPFR",
+        "iata": "FAO",
+        "name": "Faro"
+    },
+    {
+        "icao": "LPPR",
+        "iata": "OPO",
+        "name": "Porto"
+    },
+    {
+        "icao": "LOWW",
+        "iata": "VIE",
+        "name": "Vienna"
+    },
+    {
+        "icao": "LPPR",
+        "iata": "OPO",
+        "name": "Porto"
+    },
+    {
+        "icao": "LPPT",
+        "iata": "LIS",
+        "name": "Lisbon"
+    },
+    {
+        "icao": "LPPT",
+        "iata": "LIS",
+        "name": "Lisbon"
+    },
+    {
+        "icao": "LPPT",
+        "iata": "LIS",
+        "name": "Lisbon"
+    },
+    {
+        "icao": "LPPT",
+        "iata": "LIS",
+        "name": "Lisbon"
+    },
+    {
+        "icao": "LPPT",
+        "iata": "LIS",
+        "name": "Lisbon"
+    },
+    {
+        "icao": "LROP",
+        "iata": "OTP",
+        "name": "Bucharest"
+    },
+    {
+        "icao": "LSGG",
+        "iata": "GVA",
+        "name": "Geneva"
+    },
+    {
+        "icao": "LSGG",
+        "iata": "GVA",
+        "name": "Geneva"
+    },
+    {
+        "icao": "LSZH",
+        "iata": "ZRH",
+        "name": "Zurich"
+    },
+    {
+        "icao": "LSZH",
+        "iata": "ZRH",
+        "name": "Zurich"
+    },
+    {
+        "icao": "LTFM",
+        "iata": "IST",
+        "name": "Istanbul"
+    },
+    {
+        "icao": "LTFM",
+        "iata": "IST",
+        "name": "Istanbul"
+    },
+    {
+        "icao": "LTFM",
+        "iata": "IST",
+        "name": "Istanbul"
+    },
+    {
+        "icao": "LTFJ",
+        "iata": "SAW",
+        "name": "Istanbul"
+    },
+    {
+        "icao": "LYBE",
+        "iata": "BEG",
+        "name": "Belgrade"
+    },
+    {
+        "icao": "OMDB",
+        "iata": "DXB",
+        "name": "Dubai"
+    },
+    {
+        "icao": "MMMX",
+        "iata": "MEX",
+        "name": "Mexico City"
+    },
+    {
+        "icao": "OLBA",
+        "iata": "BEY",
+        "name": "Beirut"
+    },
+    {
+        "icao": "OMAA",
+        "iata": "AUH",
+        "name": "Abu Dhabi"
+    },
+    {
+        "icao": "OMDB",
+        "iata": "DXB",
+        "name": "Dubai"
+    },
+    {
+        "icao": "OMDB",
+        "iata": "DXB",
+        "name": "Dubai"
+    },
+    {
+        "icao": "OOMS",
+        "iata": "MCT",
+        "name": "Muscat"
+    },
+    {
+        "icao": "RJTT",
+        "iata": "HND",
+        "name": "Tokyo"
+    },
+    {
+        "icao": "RJTT",
+        "iata": "HND",
+        "name": "Tokyo"
+    },
+    {
+        "icao": "OTHH",
+        "iata": "DOH",
+        "name": "Doha"
+    },
+    {
+        "icao": "RKSI",
+        "iata": "ICN",
+        "name": "Seoul"
+    },
+    {
+        "icao": "RKSI",
+        "iata": "ICN",
+        "name": "Seoul"
+    },
+    {
+        "icao": "UKBB",
+        "iata": "KBP",
+        "name": "Kiev"
+    },
+    {
+        "icao": "UGTB",
+        "iata": "TBS",
+        "name": "Tbilisi"
+    },
+    {
+        "icao": "VCBI",
+        "iata": "CMB",
+        "name": "Colombo"
+    },
+    {
+        "icao": "SBGR",
+        "iata": "GRU",
+        "name": "São Paulo"
+    },
+    {
+        "icao": "UUEE",
+        "iata": "SVO",
+        "name": "Moscow"
+    },
+    {
+        "icao": "VIDP",
+        "iata": "DEL",
+        "name": "New Delhi"
+    },
+    {
+        "icao": "ZBTJ",
+        "iata": "TSN",
+        "name": "Tianjin"
+    }
+]

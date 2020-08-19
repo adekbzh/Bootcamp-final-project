@@ -1,0 +1,156 @@
+[
+    {
+        "name": "Preveza/lefkas"
+    },
+    {
+        "icao": "LBBG",
+        "iata": "BOJ",
+        "name": "Burgas"
+    },
+    {
+        "icao": "LDSP",
+        "iata": "SPU",
+        "name": "Split"
+    },
+    {
+        "icao": "UMMS",
+        "iata": "MSQ",
+        "name": "Minsk"
+    },
+    {
+        "icao": "UUBW",
+        "iata": "ZIA",
+        "name": "Moscow"
+    },
+    {
+        "icao": "LFPG",
+        "iata": "CDG",
+        "name": "Paris"
+    },
+    {
+        "icao": "LROP",
+        "iata": "OTP",
+        "name": "Bucharest"
+    },
+    {
+        "icao": "EVRA",
+        "iata": "RIX",
+        "name": "Riga"
+    },
+    {
+        "icao": "LEPA",
+        "iata": "PMI",
+        "name": "Palma De Mallorca"
+    },
+    {
+        "icao": "LSZH",
+        "iata": "ZRH",
+        "name": "Zurich"
+    },
+    {
+        "icao": "EGPH",
+        "iata": "EDI",
+        "name": "Edinburgh"
+    },
+    {
+        "icao": "OMDB",
+        "iata": "DXB",
+        "name": "Dubai"
+    },
+    {
+        "icao": "LIRA",
+        "iata": "CIA",
+        "name": "Roma"
+    },
+    {
+        "icao": "EGCC",
+        "iata": "MAN",
+        "name": "Manchester"
+    },
+    {
+        "icao": "LFPG",
+        "iata": "CDG",
+        "name": "Paris"
+    },
+    {
+        "icao": "EDDF",
+        "iata": "FRA",
+        "name": "Frankfurt-am-Main"
+    },
+    {
+        "icao": "USSS",
+        "iata": "SVX",
+        "name": "Yekaterinburg"
+    },
+    {
+        "icao": "LGRP",
+        "iata": "RHO",
+        "name": "Rodes Island"
+    },
+    {
+        "icao": "EDDF",
+        "iata": "FRA",
+        "name": "Frankfurt-am-Main"
+    },
+    {
+        "icao": "LGKR",
+        "iata": "CFU",
+        "name": "Kerkyra Island"
+    },
+    {
+        "icao": "VVNB",
+        "iata": "HAN",
+        "name": "Hanoi"
+    },
+    {
+        "name": "Kosice"
+    },
+    {
+        "icao": "EPWA",
+        "iata": "WAW",
+        "name": "Warsaw"
+    },
+    {
+        "icao": "BIKF",
+        "iata": "KEF",
+        "name": "Reykjavík"
+    },
+    {
+        "icao": "UKOO",
+        "iata": "ODS",
+        "name": "Odessa"
+    },
+    {
+        "icao": "LFPG",
+        "iata": "CDG",
+        "name": "Paris"
+    },
+    {
+        "icao": "LGIR",
+        "iata": "HER",
+        "name": "Heraklion"
+    },
+    {
+        "name": "Kosice"
+    },
+    {
+        "icao": "UKBB",
+        "iata": "KBP",
+        "name": "Kiev"
+    },
+    {
+        "icao": "EDDL",
+        "iata": "DUS",
+        "name": "Düsseldorf"
+    },
+    {
+        "icao": "OTHH",
+        "iata": "DOH",
+        "name": "Doha"
+    },
+    {
+        "icao": "EPWA",
+        "iata": "WAW",
+        "name": "Warsaw"
+    }
+]

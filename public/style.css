@@ -1,0 +1,70 @@
+html {
+    background-image: url("/caffe_3seats.jpg");
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+    /* background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+}
+
+header {
+    height: 150px;
+    background-color: rgb(255, 255, 255, 0.6);
+    width: 100%;
+}
+
+footer {
+    height: 50px;
+    background-color: rgb(255, 255, 255, 0.6);
+    width: 100%;
+    position: absolute;
+    bottom: -2%;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    top: 20%;
+    left: 22%;
+}
+
+input {
+    margin: 5px;
+    height: 25px;
+    width: 220px;
+    background-color: rgb(255, 255, 255, 0.5);
+    font-family: "Raleway", sans-serif;
+    font-weight: 200;
+}
+
+button {
+    margin: 5px;
+    height: 25px;
+    width: 227px;
+    font-family: "Raleway", sans-serif;
+}
+
+.join {
+    font-family: "Cookie", cursive;
+    letter-spacing: 0.01em;
+    font-size: 100px;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+}

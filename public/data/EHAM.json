@@ -1,0 +1,292 @@
+[
+    {
+        "icao": "EIDW",
+        "iata": "DUB",
+        "name": "Dublin"
+    },
+    {
+        "name": "Belfast"
+    },
+    {
+        "icao": "LLBG",
+        "iata": "TLV",
+        "name": "Tel Aviv"
+    },
+    {
+        "icao": "TNCC",
+        "iata": "CUR",
+        "name": "Willemstad"
+    },
+    {
+        "icao": "LEPA",
+        "iata": "PMI",
+        "name": "Palma De Mallorca"
+    },
+    {
+        "icao": "EKCH",
+        "iata": "CPH",
+        "name": "Copenhagen"
+    },
+    {
+        "icao": "LEMD",
+        "iata": "MAD",
+        "name": "Madrid"
+    },
+    {
+        "icao": "KJFK",
+        "iata": "JFK",
+        "name": "New York"
+    },
+    {
+        "icao": "CYYZ",
+        "iata": "YYZ",
+        "name": "Toronto"
+    },
+    {
+        "icao": "OJAI",
+        "iata": "AMM",
+        "name": "Amman"
+    },
+    {
+        "icao": "LPPT",
+        "iata": "LIS",
+        "name": "Lisbon"
+    },
+    {
+        "icao": "EFHK",
+        "iata": "HEL",
+        "name": "Helsinki"
+    },
+    {
+        "icao": "EFHK",
+        "iata": "HEL",
+        "name": "Helsinki"
+    },
+    {
+        "icao": "ENVA",
+        "iata": "TRD",
+        "name": "Trondheim"
+    },
+    {
+        "icao": "EIDW",
+        "iata": "DUB",
+        "name": "Dublin"
+    },
+    {
+        "name": "Naples"
+    },
+    {
+        "name": "Milan"
+    },
+    {
+        "icao": "ENBR",
+        "iata": "BGO",
+        "name": "Bergen"
+    },
+    {
+        "icao": "EGPD",
+        "iata": "ABZ",
+        "name": "Aberdeen"
+    },
+    {
+        "icao": "EKCH",
+        "iata": "CPH",
+        "name": "Copenhagen"
+    },
+    {
+        "name": "Pula"
+    },
+    {
+        "icao": "ESSA",
+        "iata": "ARN",
+        "name": "Stockholm"
+    },
+    {
+        "name": "Malaga"
+    },
+    {
+        "icao": "ENGM",
+        "iata": "OSL",
+        "name": "Oslo"
+    },
+    {
+        "icao": "EGGP",
+        "iata": "LPL",
+        "name": "Liverpool"
+    },
+    {
+        "icao": "EIDW",
+        "iata": "DUB",
+        "name": "Dublin"
+    },
+    {
+        "icao": "SBGR",
+        "iata": "GRU",
+        "name": "São Paulo"
+    },
+    {
+        "icao": "LLBG",
+        "iata": "TLV",
+        "name": "Tel Aviv"
+    },
+    {
+        "icao": "EDDB",
+        "iata": "SXF",
+        "name": "Berlin"
+    },
+    {
+        "icao": "EGKK",
+        "iata": "LGW",
+        "name": "London"
+    },
+    {
+        "icao": "EGKK",
+        "iata": "LGW",
+        "name": "London"
+    },
+    {
+        "icao": "EGPF",
+        "iata": "GLA",
+        "name": "Glasgow"
+    },
+    {
+        "icao": "EGPH",
+        "iata": "EDI",
+        "name": "Edinburgh"
+    },
+    {
+        "icao": "GMMN",
+        "iata": "CMN",
+        "name": "Casablanca"
+    },
+    {
+        "icao": "GCTS",
+        "iata": "TFS",
+        "name": "Tenerife Island"
+    },
+    {
+        "icao": "GCLP",
+        "iata": "LPA",
+        "name": "Gran Canaria Island"
+    },
+    {
+        "icao": "LDSP",
+        "iata": "SPU",
+        "name": "Split"
+    },
+    {
+        "icao": "KLAX",
+        "iata": "LAX",
+        "name": "Los Angeles"
+    },
+    {
+        "icao": "LCPH",
+        "iata": "PFO",
+        "name": "Paphos"
+    },
+    {
+        "icao": "LEAL",
+        "iata": "ALC",
+        "name": "Alicante"
+    },
+    {
+        "icao": "LEAL",
+        "iata": "ALC",
+        "name": "Alicante"
+    },
+    {
+        "icao": "LEMG",
+        "iata": "AGP",
+        "name": "Málaga"
+    },
+    {
+        "icao": "LFSB",
+        "iata": "BSL",
+        "name": "Bâle/Mulhouse"
+    },
+    {
+        "icao": "LGAV",
+        "iata": "ATH",
+        "name": "Athens"
+    },
+    {
+        "icao": "LGKO",
+        "iata": "KGS",
+        "name": "Kos Island"
+    },
+    {
+        "icao": "LGKR",
+        "iata": "CFU",
+        "name": "Kerkyra Island"
+    },
+    {
+        "icao": "LGZA",
+        "iata": "ZTH",
+        "name": "Zakynthos Island"
+    },
+    {
+        "icao": "LIMC",
+        "iata": "MXP",
+        "name": "Milan"
+    },
+    {
+        "icao": "LIEO",
+        "iata": "OLB",
+        "name": "Olbia"
+    },
+    {
+        "icao": "LIPZ",
+        "iata": "VCE",
+        "name": "Venice"
+    },
+    {
+        "icao": "LIPX",
+        "iata": "VRN",
+        "name": "Verona"
+    },
+    {
+        "icao": "LIRP",
+        "iata": "PSA",
+        "name": "Pisa"
+    },
+    {
+        "icao": "LOWI",
+        "iata": "INN",
+        "name": "Innsbruck"
+    },
+    {
+        "icao": "LOWW",
+        "iata": "VIE",
+        "name": "Vienna"
+    },
+    {
+        "icao": "LPPT",
+        "iata": "LIS",
+        "name": "Lisbon"
+    },
+    {
+        "icao": "LPFR",
+        "iata": "FAO",
+        "name": "Faro"
+    },
+    {
+        "icao": "LSGG",
+        "iata": "GVA",
+        "name": "Geneva"
+    },
+    {
+        "icao": "LTFJ",
+        "iata": "SAW",
+        "name": "Istanbul"
+    },
+    {
+        "icao": "OMDB",
+        "iata": "DXB",
+        "name": "Dubai"
+    },
+    {
+        "icao": "UUEE",
+        "iata": "SVO",
+        "name": "Moscow"
+    }
+]

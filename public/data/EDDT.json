@@ -1,0 +1,237 @@
+[
+    {
+        "icao": "LBSF",
+        "iata": "SOF",
+        "name": "Sofia"
+    },
+    {
+        "icao": "LTFJ",
+        "iata": "SAW",
+        "name": "Istanbul"
+    },
+    {
+        "icao": "LTAI",
+        "iata": "AYT",
+        "name": "Antalya"
+    },
+    {
+        "icao": "EGLL",
+        "iata": "LHR",
+        "name": "London"
+    },
+    {
+        "icao": "EFHK",
+        "iata": "HEL",
+        "name": "Helsinki"
+    },
+    {
+        "icao": "EDDM",
+        "iata": "MUC",
+        "name": "Munich"
+    },
+    {
+        "icao": "LIMC",
+        "iata": "MXP",
+        "name": "Milan"
+    },
+    {
+        "icao": "EDDF",
+        "iata": "FRA",
+        "name": "Frankfurt-am-Main"
+    },
+    {
+        "icao": "LGKR",
+        "iata": "CFU",
+        "name": "Kerkyra Island"
+    },
+    {
+        "icao": "LPFR",
+        "iata": "FAO",
+        "name": "Faro"
+    },
+    {
+        "icao": "EKCH",
+        "iata": "CPH",
+        "name": "Copenhagen"
+    },
+    {
+        "icao": "LMML",
+        "iata": "MLA",
+        "name": "Luqa"
+    },
+    {
+        "icao": "LTBJ",
+        "iata": "ADB",
+        "name": "İzmir"
+    },
+    {
+        "icao": "LTFM",
+        "iata": "IST",
+        "name": "Istanbul"
+    },
+    {
+        "icao": "LSZH",
+        "iata": "ZRH",
+        "name": "Zurich"
+    },
+    {
+        "icao": "LEBL",
+        "iata": "BCN",
+        "name": "Barcelona"
+    },
+    {
+        "icao": "EDDR",
+        "iata": "SCN",
+        "name": "Saarbrücken"
+    },
+    {
+        "icao": "LEPA",
+        "iata": "PMI",
+        "name": "Palma De Mallorca"
+    },
+    {
+        "icao": "EDDK",
+        "iata": "CGN",
+        "name": "Cologne"
+    },
+    {
+        "icao": "LEPA",
+        "iata": "PMI",
+        "name": "Palma De Mallorca"
+    },
+    {
+        "icao": "EDDS",
+        "iata": "STR",
+        "name": "Stuttgart"
+    },
+    {
+        "icao": "LPPT",
+        "iata": "LIS",
+        "name": "Lisbon"
+    },
+    {
+        "icao": "LEPA",
+        "iata": "PMI",
+        "name": "Palma De Mallorca"
+    },
+    {
+        "icao": "EDDL",
+        "iata": "DUS",
+        "name": "Düsseldorf"
+    },
+    {
+        "icao": "EDDG",
+        "iata": "FMO",
+        "name": "Münster"
+    },
+    {
+        "icao": "ESSA",
+        "iata": "ARN",
+        "name": "Stockholm"
+    },
+    {
+        "icao": "EDDS",
+        "iata": "STR",
+        "name": "Stuttgart"
+    },
+    {
+        "icao": "EDDF",
+        "iata": "FRA",
+        "name": "Frankfurt-am-Main"
+    },
+    {
+        "icao": "LFPG",
+        "iata": "CDG",
+        "name": "Paris"
+    },
+    {
+        "icao": "LFPO",
+        "iata": "ORY",
+        "name": "Paris"
+    },
+    {
+        "icao": "EPWA",
+        "iata": "WAW",
+        "name": "Warsaw"
+    },
+    {
+        "icao": "LTFM",
+        "iata": "IST",
+        "name": "Istanbul"
+    },
+    {
+        "icao": "EFHK",
+        "iata": "HEL",
+        "name": "Helsinki"
+    },
+    {
+        "icao": "EGLL",
+        "iata": "LHR",
+        "name": "London"
+    },
+    {
+        "icao": "LOWW",
+        "iata": "VIE",
+        "name": "Vienna"
+    },
+    {
+        "icao": "EVRA",
+        "iata": "RIX",
+        "name": "Riga"
+    },
+    {
+        "icao": "ZBAA",
+        "iata": "PEK",
+        "name": "Beijing"
+    },
+    {
+        "icao": "EKCH",
+        "iata": "CPH",
+        "name": "Copenhagen"
+    },
+    {
+        "icao": "EDDF",
+        "iata": "FRA",
+        "name": "Frankfurt-am-Main"
+    },
+    {
+        "icao": "EDDK",
+        "iata": "CGN",
+        "name": "Cologne"
+    },
+    {
+        "icao": "EDDS",
+        "iata": "STR",
+        "name": "Stuttgart"
+    },
+    {
+        "icao": "LSZH",
+        "iata": "ZRH",
+        "name": "Zurich"
+    },
+    {
+        "icao": "EDDL",
+        "iata": "DUS",
+        "name": "Düsseldorf"
+    },
+    {
+        "icao": "LYBE",
+        "iata": "BEG",
+        "name": "Belgrade"
+    },
+    {
+        "icao": "ELLX",
+        "iata": "LUX",
+        "name": "Luxembourg"
+    },
+    {
+        "icao": "EDDM",
+        "iata": "MUC",
+        "name": "Munich"
+    },
+    {
+        "icao": "LFSB",
+        "iata": "BSL",
+        "name": "Bâle/Mulhouse"
+    }
+]
