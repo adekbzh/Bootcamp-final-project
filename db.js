@@ -3,4 +3,4 @@ const db = spicedPg(
     process.env.DATABASE_URL || "postgres:postgres:postgres@localhost:5432/join"
 );
 
-module.exports.getDepartures = function ()
+// module.exports.getDepartures = function ()
