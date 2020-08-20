@@ -27,13 +27,6 @@ app.use(
 
 app.use(express.urlencoded({ extended: false }));
 
-// app.use(csurf());
-
-/* app.use(function (req, res, next) {
-    res.locals.csrfToken = req.csrfToken();
-    next();
-}); */
-
 //////////// JOIN  APP \\\\\\\\\\\\
 
 app.get("/", (req, res) => {
@@ -47,9 +40,6 @@ app.get("/departures", (req, res) => {
 });
 
 app.post("/departures", (req, res) => {
-    // get the user inputs
-    // change them into a ICAO Code || change the json files names ||
-    // then readFile to get the arrays?
     //console.log("REQ.BODY", req.body);
     var dep1 = req.body.dep1.toLowerCase();
     var dep2 = req.body.dep2.toLowerCase();
@@ -77,6 +67,20 @@ app.post("/departures", (req, res) => {
         destinations2.push(d2[i].name);
     }
 
+    function compareTwo(dest1, dest2) {
+        // console.log("destinations1", dest1);
+        const matchingDestinations = [];
+        dest1.forEach((elem1) =>
+            dest2.forEach((elem2) => {
+                if (elem1 === elem2) {
+                    matchingDestinations.push(elem1);
+                }
+            })
+        );
+        // console.log("Comparing 2 first arrays", matchingDestinations);
+    }
+
+    compareTwo(destinations1, destinations2);
     // console.log("destinations from dep1", destinations1);
     // console.log("destinations from dep2", destinations2);
     // console.log("DATA FROM coresponding JSON", d1);
