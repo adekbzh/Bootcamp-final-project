@@ -57,14 +57,16 @@ app.post("/departures", (req, res) => {
         });
     }
 
-    let matchingDestinations = intersection(allDestinations);
+    let matchingDestinations = Array.from(
+        new Set(intersection(allDestinations))
+    ).sort();
 
     res.render("destinations", {
         layout: "main",
         matchingDestinations,
     });
     // console.log(intersection(allDestinations));
-    // console.log(matchingDestinations);
+    console.log(matchingDestinations);
     // console.log(intersection(allDestinations));
     // res.send(destinations);
 });

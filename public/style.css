@@ -69,3 +69,10 @@ button {
     align-items: center;
     position: relative;
 }
+
+.scroll-destinations {
+    height: 82%;
+    width: 100%;
+    overflow: scroll;
+    display: inline-block;
+}
