@@ -5,13 +5,32 @@
     <meta name="viewport" content="width=s, initial-scale=1.0">
     <title>Document</title>
 </head>
+
 <body>
-    <container class="scroll-destinations">
-    <ul>
+    
+    {{!-- <p class="share"><a href="/invitation" id="button">Share with your friends</a></p> --}}
+    {{!-- <button class="share" id="button">Share with your friends</button> --}}
+    <p class="share" id="button">Share with your friends</p>
+    <div class="bg-modal">
+        <div class="modal-content">
+            <div class="close">+</div>
+            <form>
+                <input class="modal-input" type="text" placeholder="name">
+                <input class="modal-input" type="text" placeholder="E-mail">
+                <a href="/invitation" class="button">Submit</a>
+            </form>
+        </div>
+    </div>
+    
+
+    <container class="container-destinations">
+    <ul class="destinations">
         {{#matchingDestinations}}
-        <li><p>{{.}}</p></li>
+        <li class="city-container"><p class="city">{{.}}</p></li>
         {{/matchingDestinations}}
     </ul>
     </container>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="/script.js"></script>
 </body>
 </html>

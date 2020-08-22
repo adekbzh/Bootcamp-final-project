@@ -9,6 +9,7 @@ html {
 }
 
 body {
+    margin: 0;
     width: 100%;
     height: 100%;
     overflow: hidden;
@@ -18,6 +19,11 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover; */
+}
+
+a {
+    text-decoration: none;
+    color: rgb(199, 0, 57);
 }
 
 header {
@@ -45,18 +51,45 @@ form {
 
 input {
     margin: 5px;
-    height: 25px;
+    height: 35px;
     width: 220px;
+    border-radius: 4px;
+    border: 0;
     background-color: rgb(255, 255, 255, 0.5);
     font-family: "Raleway", sans-serif;
-    font-weight: 200;
+    font-weight: 600;
+    display: flex;
+}
+
+::placeholder {
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+    color: rgb(199, 0, 57);
+    letter-spacing: 0.2em;
+    display: flex;
 }
 
 button {
     margin: 5px;
-    height: 25px;
+    height: 35px;
     width: 227px;
     font-family: "Raleway", sans-serif;
+    font-weight: 600;
+    background-color: rgb(199, 0, 57);
+    border: 0;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button > p {
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+    color: white;
+    top: 50%;
+    letter-spacing: 0.2em;
+    display: flex;
 }
 
 .join {
@@ -70,9 +103,95 @@ button {
     position: relative;
 }
 
-.scroll-destinations {
+.container-destinations {
     height: 82%;
     width: 100%;
     overflow: scroll;
     display: inline-block;
+    scrollbar-width: none;
+}
+
+.share {
+    font-family: "Cookie", cursive;
+    font-size: 30px;
+    font-weight: normal;
+    position: absolute;
+    top: 10%;
+    right: 10%;
+    cursor: pointer;
+}
+
+.share:hover {
+    color: rgb(199, 0, 57);
+    transform: scale(1.07);
+}
+
+.bg-modal {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+}
+
+.modal-content {
+    width: 500px;
+    height: 300px;
+    background-color: white;
+    border-radius: 4px;
+    text-align: center;
+    padding: 20px;
+    position: relative;
+}
+
+.modal-input {
+    width: 50%;
+    display: block;
+    margin: 15px auto;
+}
+
+.close {
+    position: absolute;
+    top: 0;
+    right: 14px;
+    font-size: 42px;
+    transform: rotate(45deg);
+    cursor: pointer;
+}
+
+.destinations {
+    list-style-type: none;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+}
+
+.city-container {
+    width: 200px;
+    height: 200px;
+    border-radius: 4px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-width: 10px;
+    border-color: rgb(199, 0, 57);
+    display: flex;
+    justify-content: center;
+    margin: 15px;
+    cursor: pointer;
+}
+
+.city-container:hover {
+    background-color: rgb(199, 0, 57);
+    transform: scale(1.1);
+}
+
+.city {
+    font-family: "Cookie", cursive;
+    font-size: 50px;
+    color: rgb(255, 255, 255, 0.7);
+    display: flex;
+    align-items: center;
 }

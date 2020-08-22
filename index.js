@@ -38,6 +38,12 @@ app.get("/departures", (req, res) => {
     });
 });
 
+app.get("/login", (req, res) => {
+    res.render("login", {
+        layout: "main",
+    });
+});
+
 app.post("/departures", (req, res) => {
     var allDestinations = [];
 
@@ -73,6 +79,12 @@ app.post("/departures", (req, res) => {
 
 app.get("/destinations", (req, res) => {
     res.render("destinations", {
+        layout: "main",
+    });
+});
+
+app.get("/invitation", (req, res) => {
+    res.render("invitation", {
         layout: "main",
     });
 });
