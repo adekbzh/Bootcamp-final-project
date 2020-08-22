@@ -6,6 +6,12 @@
     <title>Document</title>
 </head>
 <body>
+    {{#if error}}
+    <p class="error">Please select at least two ddeparture cities</p>
+    {{/if}}
+   {{!--  <container class="desc-container">
+    <p class="description-text">Enter up to 5 departure cities and find the place where to reunite with your friends. </p>
+    </container> --}}
     <form method="POST">
         <input id="date" type="date" placeholder="Choose a departure date">
         {{!-- <p>Enter up to 5 depature cities here</p> --}}

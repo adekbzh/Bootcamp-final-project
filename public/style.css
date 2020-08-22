@@ -23,7 +23,7 @@ body {
 
 a {
     text-decoration: none;
-    color: rgb(199, 0, 57);
+    color: rgb(248, 205, 10);
 }
 
 header {
@@ -64,7 +64,7 @@ input {
 ::placeholder {
     font-family: "Raleway", sans-serif;
     font-weight: 600;
-    color: rgb(199, 0, 57);
+    /* color: rgb(199, 0, 57); */
     letter-spacing: 0.2em;
     display: flex;
 }
@@ -75,7 +75,8 @@ button {
     width: 227px;
     font-family: "Raleway", sans-serif;
     font-weight: 600;
-    background-color: rgb(199, 0, 57);
+    /* background-color: rgb(199, 0, 57); */
+    background-color: rgb(255, 195, 0);
     border: 0;
     border-radius: 4px;
     display: flex;
@@ -122,7 +123,7 @@ button > p {
 }
 
 .share:hover {
-    color: rgb(199, 0, 57);
+    color: rgb(255, 195, 0);
     transform: scale(1.07);
 }
 
@@ -152,6 +153,7 @@ button > p {
     width: 50%;
     display: block;
     margin: 15px auto;
+    background-color: rgb(255, 255, 255, 0.5);
 }
 
 .close {
@@ -174,9 +176,10 @@ button > p {
     width: 200px;
     height: 200px;
     border-radius: 4px;
-    background-color: rgba(0, 0, 0, 0.5);
-    border-width: 10px;
-    border-color: rgb(199, 0, 57);
+    background-color: rgba(0, 0, 0, 0.6);
+    border: 1px;
+    border-style: solid;
+    border-color: rgb(255, 195, 0);
     display: flex;
     justify-content: center;
     margin: 15px;
@@ -184,14 +187,23 @@ button > p {
 }
 
 .city-container:hover {
-    background-color: rgb(199, 0, 57);
+    background-color: rgb(255, 195, 0);
     transform: scale(1.1);
 }
 
 .city {
     font-family: "Cookie", cursive;
-    font-size: 50px;
+    font-size: 40px;
     color: rgb(255, 255, 255, 0.7);
     display: flex;
     align-items: center;
+}
+
+.description-text {
+    max-width: 300px;
+    max-height: 200px;
+    font-family: "Cookie", cursive;
+    font-size: 35px;
+    font-weight: 100;
+    color: rgb(255, 255, 255, 0.8);
 }
