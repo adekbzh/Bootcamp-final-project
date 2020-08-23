@@ -1,5 +1,118 @@
 [
     {
+        "name": "Rennes"
+    },
+    {
+        "icao": "UMMS",
+        "iata": "MSQ",
+        "name": "Minsk"
+    },
+    {
+        "icao": "LHBP",
+        "iata": "BUD",
+        "name": "Budapest"
+    },
+    {
+        "icao": "LTFJ",
+        "iata": "SAW",
+        "name": "Istanbul"
+    },
+    {
+        "icao": "LEPA",
+        "iata": "PMI",
+        "name": "Palma De Mallorca"
+    },
+    {
+        "icao": "LATI",
+        "iata": "TIA",
+        "name": "Tirana"
+    },
+    {
+        "icao": "LEMG",
+        "iata": "AGP",
+        "name": "Málaga"
+    },
+    {
+        "icao": "LEAL",
+        "iata": "ALC",
+        "name": "Alicante"
+    },
+    {
+        "icao": "LIEO",
+        "iata": "OLB",
+        "name": "Olbia"
+    },
+    {
+        "icao": "LIME",
+        "iata": "BGY",
+        "name": "Bergamo"
+    },
+    {
+        "icao": "EIDW",
+        "iata": "DUB",
+        "name": "Dublin"
+    },
+    {
+        "icao": "LSGG",
+        "iata": "GVA",
+        "name": "Geneva"
+    },
+    {
+        "icao": "EGSS",
+        "iata": "STN",
+        "name": "London"
+    },
+    {
+        "icao": "LBSF",
+        "iata": "SOF",
+        "name": "Sofia"
+    },
+    {
+        "icao": "LUKK",
+        "iata": "KIV",
+        "name": "Chişinău"
+    },
+    {
+        "icao": "LPPR",
+        "iata": "OPO",
+        "name": "Porto"
+    },
+    {
+        "icao": "EHAM",
+        "iata": "AMS",
+        "name": "Amsterdam"
+    },
+    {
+        "icao": "GCTS",
+        "iata": "TFS",
+        "name": "Tenerife Island"
+    },
+    {
+        "icao": "LBWN",
+        "iata": "VAR",
+        "name": "Varna"
+    },
+    {
+        "icao": "GCLP",
+        "iata": "LPA",
+        "name": "Gran Canaria Island"
+    },
+    {
+        "icao": "LWSK",
+        "iata": "SKP",
+        "name": "Skopje"
+    },
+    {
+        "icao": "ENGM",
+        "iata": "OSL",
+        "name": "Oslo"
+    },
+    {
+        "icao": "LGAV",
+        "iata": "ATH",
+        "name": "Athens"
+    },
+    {
         "icao": "LBSF",
         "iata": "SOF",
         "name": "Sofia"

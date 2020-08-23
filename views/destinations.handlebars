@@ -16,8 +16,9 @@
             <div class="close">+</div>
             <form>
                 <input class="modal-input" type="text" placeholder="name">
-                <input class="modal-input" type="text" placeholder="E-mail">
-                <a href="/invitation" class="button">Submit</a>
+                <input class="modal-input" type="password" placeholder="password">
+                <a href="/invitation" class="button">LOG IN</a>
+                <button id="submit" type="submit"><p>Join JOIN</p></button>
             </form>
         </div>
     </div>
@@ -26,7 +27,7 @@
     <container class="container-destinations">
     <ul class="destinations">
         {{#matchingDestinations}}
-        <li class="city-container"><p class="city">{{.}}</p></li>
+        <a href="/destinations/{{.}}"><li class="city-container"><p class="city">{{.}}</p></li></a>
         {{/matchingDestinations}}
     </ul>
     </container>

@@ -83,6 +83,8 @@ app.get("/destinations", (req, res) => {
     });
 });
 
+app.get("/destinations/:city", (req, res) => {});
+
 app.get("/invitation", (req, res) => {
     res.render("invitation", {
         layout: "main",
@@ -92,7 +94,7 @@ app.get("/invitation", (req, res) => {
 app.listen(8080, () => {
     console.log("Server is listening");
 });
-////////////  FIRST VERSION \\\\\\\\\\\\
+////////////  FIRST SHOT \\\\\\\\\\\\
 
 //const dep = require(`./public/data/${dep1}.json`);
 /* 
@@ -139,4 +141,4 @@ app.listen(8080, () => {
 // console.log("destinations from dep2", destinations2);
 // console.log("DATA FROM coresponding JSON", d1);
 
-////////////  END OF FIRST VERSION \\\\\\\\\\\\
+////////////  END OF FIRST SHOT \\\\\\\\\\\\

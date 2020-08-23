@@ -157,6 +157,11 @@
         "iata": "TFN",
         "name": "Tenerife Island"
     },
+
+    {
+        "name": "Rennes"
+    },
+
     {
         "icao": "GCXO",
         "iata": "TFN",

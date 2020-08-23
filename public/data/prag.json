@@ -22,6 +22,10 @@
         "iata": "ZIA",
         "name": "Moscow"
     },
+
+    {
+        "name": "Rennes"
+    },
     {
         "icao": "LFPG",
         "iata": "CDG",
