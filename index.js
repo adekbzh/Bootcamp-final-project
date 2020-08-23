@@ -83,7 +83,17 @@ app.get("/destinations", (req, res) => {
     });
 });
 
-app.get("/destinations/:city", (req, res) => {});
+app.get("/destinations/:city", (req, res) => {
+    let city = req.params.city;
+    db.getCity(city).then((results) => {
+        city_pic = results.rows[0].image_url;
+        // console.log("image url", results.rows[0].image_url);
+        res.render("city", {
+            layout: "main",
+            city_pic,
+        });
+    });
+});
 
 app.get("/invitation", (req, res) => {
     res.render("invitation", {
