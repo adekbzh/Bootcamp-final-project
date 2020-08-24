@@ -75,7 +75,7 @@ $(".close").on("click", function () {
             var resultsHtml = "";
             if (results.length === 0) {
                 console.log(results);
-                resultsHtml = "<p>No results for your departure city</p>";
+                resultsHtml = "<p class='no-match'>No matching departure</p>";
             }
             for (var q = 0; q < results.length; q++) {
                 resultsHtml += "<p class='city-search'>" + results[q] + "</p>";

@@ -12,5 +12,21 @@
             <source src="{{city_pic}}" type="video/mp4">
         </video>
     </div>
+    {{!-- <p class="in">in</p> --}}
+    <container class="picked-city_container">
+    <p class="picked-city">{{city_name}}</p>
+    <p class="share_city" id="button">Share with your friends</p>
+    </container>
+    <div class="bg-modal">
+        <div class="modal-content">
+            <div class="close">+</div>
+            <form>
+                <input class="modal-input" type="text" placeholder="name">
+                <input class="modal-input" type="password" placeholder="password">
+                <a href="/invitation" class="button">LOG IN</a>
+                <button id="submit" type="submit"><p>Join JOIN</p></button>
+            </form>
+        </div>
+    </div>
 </body>
 </html>

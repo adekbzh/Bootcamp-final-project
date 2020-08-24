@@ -1,11 +1,13 @@
 html {
-    background-image: url("/caffe_3seats.jpg");
     width: 100%;
     height: 100%;
-    background-position: center;
+    /*     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    overflow: hidden;
+    overflow: hidden; */
+}
+
+.bg-pic {
 }
 
 body {
@@ -13,6 +15,10 @@ body {
     width: 100%;
     height: 100%;
     overflow: hidden;
+    background-image: url("/caffe_3seats.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     /* background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -250,6 +256,60 @@ button > p,
     right: 0;
     bottom: 0;
     left: 0;
-    overflow: hidden;
+    /* overflow: hidden; */
     z-index: -100;
 }
+
+.no-match {
+    height: 30px;
+    width: 220px;
+    margin: 0;
+    font-family: "Raleway", sans-serif;
+    font-weight: 600;
+    color: white;
+    background-color: rgb(199, 0, 57, 0.7);
+    cursor: pointer;
+}
+
+/* SINGLE CITY PAGE // destinations/:city */
+
+.picked-city_container {
+    height: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.picked-city {
+    font-family: "Cookie", cursive;
+    font-size: 170px;
+    color: rgb(255, 255, 255, 1);
+    margin: 0;
+}
+
+.share_city {
+    font-family: "Cookie", cursive;
+    color: rgb(255, 255, 255, 1);
+    font-size: 30px;
+    font-weight: normal;
+    position: relative;
+    cursor: pointer;
+    height: 50px;
+    margin: 0;
+}
+
+.share_city:hover {
+    /*  height: 82%;
+    width: 100%; */
+    color: rgb(255, 195, 0);
+    transform: scale(1.1);
+}
+
+/* END !!! SINGLE CITY PAGE // destinations/:city */
+
+/* .in {
+    font-family: "Raleway", sans-serif;
+    font-size: 70px;
+    color: rgb(248, 205, 10);
+} */

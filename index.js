@@ -87,10 +87,13 @@ app.get("/destinations/:city", (req, res) => {
     let city = req.params.city;
     db.getCity(city).then((results) => {
         city_pic = results.rows[0].image_url;
+        city_name = results.rows[0].city;
+        console.log("city_pic", city_pic);
         // console.log("image url", results.rows[0].image_url);
         res.render("city", {
             layout: "main",
             city_pic,
+            city_name,
         });
     });
 });
