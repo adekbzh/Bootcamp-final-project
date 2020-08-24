@@ -21,6 +21,15 @@ body {
     background-size: cover; */
 }
 
+/* .bg-pic {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+} */
+
 a {
     text-decoration: none;
     color: rgb(248, 205, 10);
