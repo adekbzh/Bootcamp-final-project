@@ -62,6 +62,7 @@ app.post("/departures", (req, res) => {
             return deps.every((dep) => dep.includes(name));
         });
     }
+    // console.log("typeof (intersection)", typeof intersection);
 
     let matchingDestinations = Array.from(
         new Set(intersection(allDestinations))
@@ -85,10 +86,12 @@ app.get("/destinations", (req, res) => {
 
 app.get("/destinations/:city", (req, res) => {
     let city = req.params.city;
+    // console.log("typeof (let city)", typeof city);
     db.getCity(city).then((results) => {
         city_pic = results.rows[0].image_url;
         city_name = results.rows[0].city;
-        console.log("city_pic", city_pic);
+        // console.log("city_pic", city_pic);
+        // console.log("typeof (results)", typeof results);
         // console.log("image url", results.rows[0].image_url);
         res.render("city", {
             layout: "main",

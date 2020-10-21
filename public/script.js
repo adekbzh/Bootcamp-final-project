@@ -53,7 +53,8 @@ $(".close").on("click", function () {
 
         inputField.on("input", function () {
             var inputValue = inputField.val();
-            console.log(inputValue);
+            // console.log(inputValue);
+            // console.log("typeof (inputValue)", typeof inputValue);
             var results = [];
             if (inputValue === "") {
                 results = [];
